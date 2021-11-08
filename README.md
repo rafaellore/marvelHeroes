@@ -11,6 +11,7 @@ O projeto foi feito com o propósito de estudar listagem de dados e navegação 
 <img src="prints/printhome2.png" width="240" height="459">
 <img src="prints/printinfo1.png" width="240" height="459">
 <img src="prints/printinfo2.png" width="240" height="459">
+  <img src="prints/pintinfo3.png" width="240" height="459">
 </div>
 
 ## Clonando o repositório :rocket:
